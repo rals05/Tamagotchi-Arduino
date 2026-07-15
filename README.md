@@ -13,7 +13,7 @@ A fully functional Tamagotchi built from scratch on an Arduino Nano, with hand-d
 ## Demo
 <img src="Media/demo.gif" width="600">
 
-[Full demo video](media/demo.mov)
+[Full demo video](Media/demo.mov)
 
 ## Features:
 1. Feed, Play, and Sleep buttons, each fully debounced
